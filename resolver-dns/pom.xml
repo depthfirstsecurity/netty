@@ -89,6 +89,12 @@
       <version>2.6</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-lang3</artifactId>
+      <version>3.18.0</version>
+      <scope>test</scope>
+    </dependency>
 
     <!-- Automatic native-image reflection metadata generation for handlers dependencies -->
     <dependency>
